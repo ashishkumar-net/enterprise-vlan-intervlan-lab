@@ -310,6 +310,6 @@ After completing this lab, you will be able to:
 ---
 ## 📂 Repository Info
 This project is part of my **CCNA Lab Portfolio**.  
-Explore more labs here 👉 [@asmymhm](https://github.com/asmymhm)
+Explore more labs here 👉 [@ashishkumar-net](https://github.com/ashishkumar-net)
 
 ---
